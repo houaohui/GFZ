@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\GFZ" 
+PRINT(".\Listings\GFZ.m51") RAMSIZE(256) 
